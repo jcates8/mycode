@@ -1,6 +1,6 @@
 # mycode - Test Bed
 
-Testing AWX/Ansible/Tower and other platforms
+Testing AWX/Ansible/Tower and other platforms. Testing version control within GitHub
 
 ## Getting Started
 
